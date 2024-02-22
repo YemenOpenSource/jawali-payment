@@ -1,4 +1,7 @@
-# Jawali-payment [Beta]
+# Jawali-payment [Beta (not completed)]
+
+# المكتبة ليست جاهزة بعد.. ومن أراد تطويرها فله جزيل الشكر 
+
 
 ![img.png](img.png)
 
